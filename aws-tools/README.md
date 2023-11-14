@@ -7,8 +7,14 @@
 
 2.  Click ‘Install’ on the installer as per image below:
 
-3.  The tools have now been installed and are added to the palette as a
+![installer](screenshots/1.png)
+
+4.  The tools have now been installed and are added to the palette as a
     new tab, typically on the far right of existing tabs as in the image
     below.
 
+![tab](screenshots/2.png)
+
 > You can also find the tools using the search bar:
+
+![search bar](screenshots/3.png)
