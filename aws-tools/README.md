@@ -7,7 +7,7 @@
 2.  Run the AWS Tools.yxi file to launch the installation. You will
     require admin rights on the machine to complete the installation.
 
-3.  Click ‘Install’ on the installer as per image below:
+3.  Click ‘Install’ on the 'Tool Installer' window as per image below:
 
 ![installer](screenshots/1.png)
 
