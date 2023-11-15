@@ -21,7 +21,7 @@
 
 In order to authenticate with AWS users will need to generate an access key and secret. This can be done by following [this guide.](https://aws.amazon.com/blogs/security/wheres-my-secret-access-key/)
 
-Below is a table of the required permissions within AWS in order to use each tool.
+Below is a table of the required permissions for the identity you are using within AWS in order to use each tool.
 
 | Tool      | Operation |
 | ----------- | ----------- |
