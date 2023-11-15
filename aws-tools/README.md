@@ -13,7 +13,5 @@
     new tab, typically on the far right of existing tabs as in the image
     below. You may also find the tools using the search bar.
 
-[![AWS Tools Installation Guide](./supporting-files/AWS Tools Installation Guide.png)](https://aimpointdigital.sharefile.com/d-s2b239fc6a540481da0b6d133dab3535f "Video Title")
-
-
+[![AWS Tools Installation Guide](./supporting-files/AWS Tools Installation Guide.png)](https://aimpointdigital.sharefile.com/d-s2b239fc6a540481da0b6d133dab3535f "AWS Tools Installation Guide")
 
