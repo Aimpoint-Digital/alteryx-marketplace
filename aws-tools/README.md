@@ -9,14 +9,11 @@
 
 3.  Click ‘Install’ on the 'Tool Installer' window as per image below:
 
-![installer](screenshots/1.png)
-
 4.  The tools have now been installed and are added to the palette as a
     new tab, typically on the far right of existing tabs as in the image
-    below.
+    below. You may also find the tools using the search bar.
 
-![tab](screenshots/2.png)
+[![AWS Tools Installation Guide](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://aimpointdigital.sharefile.com/d-s2b239fc6a540481da0b6d133dab3535f "Video Title")
 
-> You can also find the tools using the search bar:
 
-![search bar](screenshots/3.png)
+
