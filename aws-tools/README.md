@@ -13,7 +13,7 @@
     new tab, typically on the far right of existing tabs as in the image
     below. You may also find the tools using the search bar.
 
-[![AWS Tools Installation Guide](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://aimpointdigital.sharefile.com/d-s2b239fc6a540481da0b6d133dab3535f "Video Title")
+[![AWS Tools Installation Guide](aws-tools/supporting-files/AWS Tools Installation Guide.png)](https://aimpointdigital.sharefile.com/d-s2b239fc6a540481da0b6d133dab3535f "Video Title")
 
 
 
