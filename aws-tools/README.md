@@ -2,7 +2,7 @@
 
 ## Installation Instructions
 
-1. Download the AWS tools.yxi file from the Alteryx Marketplace, here.
+1. Download the AWS tools.yxi file from the Alteryx Marketplace, [here.](https://marketplace.alteryx.com/en-US/apps/423221)
 
 2.  Run the AWS Tools.yxi file to launch the installation. You may
     require admin rights on the machine to complete the installation.
